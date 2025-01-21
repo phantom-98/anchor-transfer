@@ -1,7 +1,7 @@
 [features]
 seeds = false
 skip-lint = false
-[programs.localnet]
+[programs.devnet]
 anchor_transfer_project = "CqNc5xHcA9HLQAMEyWKudapC6Comf1PksQRJJVrjPNbL"
 
 [registry]
